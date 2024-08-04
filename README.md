@@ -1,2 +1,4 @@
 # Themetize
- Themetize - modified gm82room repo for creating elpAudio themes
+ Themetize - theme creator for elpAudio (1.6 and higher)
+
+W.I.P
