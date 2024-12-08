@@ -1,0 +1,3 @@
+elpAudioCurrentVersion=1.75
+elpAudioLastVersion=1.6
+elpAudioLastVersion1=0.9

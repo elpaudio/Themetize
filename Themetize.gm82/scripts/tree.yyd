@@ -1,2 +1,5 @@
-|load_theme
+|ThemeLoad
 |InitGlobalvars
+|ThemetizeInit
+|InitVars
+|compile_string
